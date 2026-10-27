@@ -1,0 +1,32 @@
+/* Gerado pelo IAgo a partir de docs/07-design-system.json. Não edite à mão: rode iago_aplicar_design. */
+:root {
+  --c-primary: #0A1628;
+  --c-primary-hover: #0F2240;
+  --c-primary-soft: #E9EDF3;
+  --c-on-primary: #ffffff;
+  --c-accent: #C8894A;
+  --c-text: #0A1628;
+  --c-text-muted: #4A5568;
+  --c-surface: #FFFFFF;
+  --c-surface-alt: #F6F3EE;
+  --c-dark: #0A1628;
+  --c-border: #E4DFD6;
+  --c-success: #1E7A4C;
+  --c-error: #B3261E;
+  --c-focus: #00697F;
+
+  --f-heading: "Plus Jakarta Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --fs-h1: clamp(2.5rem, 1.6rem + 3.2vw, 4.25rem);
+  --fs-h2: clamp(2rem, 1.5rem + 1.9vw, 3.1rem);
+  --fs-h3: clamp(1.25rem, 1.12rem + .6vw, 1.5rem);
+  --fs-h4: 1.125rem;
+  --fs-body: clamp(1rem, .97rem + .15vw, 1.0625rem);
+  --fs-small: .875rem;
+
+  --r-sm: 8px;
+  --r-md: 14px;
+  --r-lg: 24px;
+  --r-full: 999px;
+  --w-max: 1200px;
+}
